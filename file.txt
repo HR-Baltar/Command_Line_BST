@@ -1,0 +1,25 @@
+create box
+create fruit
+create food
+insert bee 2 box
+insert bee 2 in box
+insert bee 3 in food
+insert bee 4 in fruit
+find spaghetti
+find rock in box
+find bee
+find bee in food
+insert rock 2 in box
+insert apple 2 in box
+insert ale 3 in box
+insert bass 5 in box
+insert ass 1 in box
+insert bell 2 in fruit
+display box in 
+display box pre
+display box post
+display fruit post
+display food pre
+remove bee
+display box pre
+destroy food
